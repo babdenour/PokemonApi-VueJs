@@ -6,8 +6,6 @@
 
 <style lang="scss" scoped>
 #app {
-  height: 100vh;
-  width: 100vw;
   display: flex;
   flex-direction: column;
   font-family: Avenir, Helvetica, Arial, sans-serif;
